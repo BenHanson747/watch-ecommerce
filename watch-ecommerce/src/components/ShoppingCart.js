@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { FaShoppingBasket } from "react-icons/fa";
 import { IoCloseCircleSharp } from "react-icons/io5";
-// import CartItem from './ShoppingCartItem';
+import CartItem from "./ShoppingCartItem";
 import CheckoutButton from "./CartCheckout";
 
 function ShoppingBasket() {
